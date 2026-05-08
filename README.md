@@ -16,13 +16,16 @@ I'm a cybersecurity postgraduate with hands-on experience across cloud security,
 I build things, break things, document everything, and write about what I learn.
 
 🔭 Currently working on: Lightweight IDS for IoMT environments (MSc Research)
+
 🌱 Currently studying: [CompTIA Security+]
+
 🏋️ Actively training on: TryHackMe — SOC Level 1 Path
-📝 Writing about cloud security and detection engineering on [Medium/your blog]
-<!--💬 Ask me about: AWS security, threat detection, digital forensics, serverless architecture -->
+
+<!--📝 Writing about cloud security and detection engineering on [Medium/your blog]
+💬 Ask me about: AWS security, threat detection, digital forensics, serverless architecture -->
 📫 Let's connect ... 
 
 <a href="www.linkedin.com/in/sowmyabhumireddi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I can explain encryption, but I can’t explain why I have 200 tabs open.
 
