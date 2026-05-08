@@ -17,9 +17,9 @@ I build things, break things, document everything, and write about what I learn.
 
 🔭 Currently working on: Lightweight IDS for IoMT environments (MSc Research)
 
-🌱 Currently studying: [CompTIA Security+]
+🌱 Currently studying: CompTIA Security+
 
-🏋️ Actively training on: TryHackMe — SOC Level 1 Path
+🏋️ Actively training on: TryHackMe and HackTheBox  
 
 <!--📝 Writing about cloud security and detection engineering on [Medium/your blog]
 💬 Ask me about: AWS security, threat detection, digital forensics, serverless architecture -->
