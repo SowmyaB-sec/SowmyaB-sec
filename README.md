@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-About Me: 
+About Me
 I'm a cybersecurity postgraduate with hands-on experience across cloud security, SIEM operations, and digital forensics. Currently completing my MSc at NCI with research focused on lightweight anomaly-based intrusion detection for IoMT environments.
 I build things, break things, document everything, and write about what I learn.
 
