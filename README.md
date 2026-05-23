@@ -1,4 +1,3 @@
-## Hi there 👋, I'm Sowmya Bhumireddi!
 # Hi there 👋 I'm Sowmya Bhumireddi!
 
 I'm a Cybersecurity postgraduate with hands-on experience in security operations, cloud security, and digital forensics. I enjoy analysing logs, building detection logic, securing cloud environments, and documenting everything I learn.
