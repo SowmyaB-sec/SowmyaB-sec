@@ -1,31 +1,30 @@
 ## Hi there 👋, I'm Sowmya Bhumireddi!
+# Hi there 👋 I'm Sowmya Bhumireddi!
 
-<!--
-**SowmyaB-sec/SowmyaB-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cybersecurity postgraduate with hands-on experience in security operations, cloud security, and digital forensics. I enjoy analysing logs, building detection logic, securing cloud environments, and documenting everything I learn.
 
-Here are some ideas to get you started:
+## 🔐 What I Do
+- Build security tools and automation using Python  
+- Create and test intrusion detection systems (IDS/IPS)  
+- Perform vulnerability assessments and secure configurations  
+- Deploy and harden cloud environments (AWS)  
+- Explore SOC workflows, SIEM analysis, and threat detection  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
+## 📂 My Key Projects
+- **IoT Anomaly-Based IDS** – Lightweight detection system for IoT/IoMT networks  
+- **ML-Based Network IDS** – Python + Scikit-learn model for detecting malicious traffic  
+- **AWS WordPress Hardening** – IAM, network segmentation, monitoring, and secure configuration  
+- **Security Tools** – Log parsers, scanners, automation scripts  
 
-About Me
-I'm a cybersecurity postgraduate with hands-on experience across cloud security, SIEM operations, and digital forensics. Currently completing my MSc at NCI with research focused on lightweight anomaly-based intrusion detection for IoMT environments.
-I build things, break things, document everything, and write about what I learn.
+## 🧪 Currently Working On
+- CompTIA Security+  
+- TryHackMe SOC & Blue Team paths  
+- HackTheBox Academy fundamentals  
 
-<!-- 🔭 Currently working on: Lightweight IDS for IoMT environments (MSc Research) -->
+## 📫 Connect With Me
+LinkedIn: <your link>  
+TryHackMe: <your link>  
+HackTheBox: <your link>  
 
-🌱 Currently studying: CompTIA Security+
-
-🏋️ Actively training on: TryHackMe and HackTheBox  
-
-<!--📝 Writing about cloud security and detection engineering on [Medium/your blog]
-💬 Ask me about: AWS security, threat detection, digital forensics, serverless architecture -->
-📫 Let's connect ... 
-
-<a href="www.linkedin.com/in/sowmyabhumireddi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can explain encryption, but I can’t explain why I have 200 tabs open.
-
+😄 Pronouns: She/Her  
+⚡ Fun fact: I can explain encryption, but not why I have 200 tabs open.
