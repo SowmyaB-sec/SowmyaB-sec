@@ -21,8 +21,8 @@ I'm a Cybersecurity postgraduate with hands-on experience in security operations
 <!-- - HackTheBox Academy fundamentals -->  
 
 ## 📫 Connect With Me
-LinkedIn: http://www.linkedin.com/in/sowmyabhumireddi  
-TryHackMe: https://tryhackme.com/p/bsowmya 
-HackTheBox: <your link>  
+- LinkedIn: http://www.linkedin.com/in/sowmyabhumireddi  
+- TryHackMe: https://tryhackme.com/p/bsowmya 
+<!-- HackTheBox: <your link>  --> 
 
 
