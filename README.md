@@ -18,12 +18,11 @@ I'm a Cybersecurity postgraduate with hands-on experience in security operations
 ## 🧪 Currently Working On
 - CompTIA Security+  
 - TryHackMe SOC & Blue Team paths  
-- HackTheBox Academy fundamentals  
+<!-- - HackTheBox Academy fundamentals -->  
 
 ## 📫 Connect With Me
-LinkedIn: <your link>  
-TryHackMe: <your link>  
+LinkedIn: http://www.linkedin.com/in/sowmyabhumireddi  
+TryHackMe: https://tryhackme.com/p/bsowmya 
 HackTheBox: <your link>  
 
-😄 Pronouns: She/Her  
-⚡ Fun fact: I can explain encryption, but not why I have 200 tabs open.
+
